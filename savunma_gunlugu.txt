@@ -1,0 +1,118 @@
+[2025-12-15 00:11:48] SİMÜLASYON BAŞLADI. Harita Yüklendi. Can: 50, Para: 200
+[2025-12-15 00:11:48] DALGA 1 BASLADI.
+[2025-12-15 00:11:48] SPAWN: Viking sahaya girdi.
+[2025-12-15 00:11:49] İNSAAT: Okcu kuruldu. Konum: (324,130). Kalan Para: 150
+[2025-12-15 00:11:50] SALDIRI: Kule-0 -> D-1-0 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 40,0]
+[2025-12-15 00:11:50] SPAWN: Viking sahaya girdi.
+[2025-12-15 00:11:51] İNSAAT: Topcu kuruldu. Konum: (406,350). Kalan Para: 75
+[2025-12-15 00:11:51] SALDIRI: Kule-0 -> D-1-0 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 30,0]
+[2025-12-15 00:11:51] SALDIRI: Kule-1 -> D-1-0 vurdu. [Zırh: 0] -> [Net Hasar: 20,0] [Kalan Can: 10,0]
+[2025-12-15 00:11:52] SALDIRI: Kule-0 -> D-1-0 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 0,0]
+[2025-12-15 00:11:52] ZAFER: Viking öldürüldü. +10 Gold. Toplam: 85
+[2025-12-15 00:11:52] SPAWN: King sahaya girdi.
+[2025-12-15 00:11:53] SALDIRI: Kule-0 -> D-1-1 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 40,0]
+[2025-12-15 00:11:54] SALDIRI: Kule-0 -> D-1-1 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 30,0]
+[2025-12-15 00:11:54] SALDIRI: Kule-1 -> D-1-1 vurdu. [Zırh: 0] -> [Net Hasar: 20,0] [Kalan Can: 10,0]
+[2025-12-15 00:11:54] SPAWN: Dragon sahaya girdi.
+[2025-12-15 00:11:55] İNSAAT: BuzKulesi kuruldu. Konum: (360,580). Kalan Para: 15
+[2025-12-15 00:11:55] SALDIRI: Kule-0 -> D-1-1 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 0,0]
+[2025-12-15 00:11:55] ZAFER: Viking öldürüldü. +10 Gold. Toplam: 25
+[2025-12-15 00:11:56] SALDIRI: Kule-0 -> D-1-2 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 68,3]
+[2025-12-15 00:11:56] SPAWN: Viking sahaya girdi.
+[2025-12-15 00:11:57] SALDIRI: Kule-0 -> D-1-3 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 40,0]
+[2025-12-15 00:11:57] SALDIRI: Kule-1 -> D-1-2 vurdu. [Zırh: 50] -> [Net Hasar: 13,3] [Kalan Can: 55,0]
+[2025-12-15 00:11:58] SALDIRI: Kule-0 -> D-1-3 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 30,0]
+[2025-12-15 00:11:59] SALDIRI: Kule-0 -> D-1-2 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 48,3]
+[2025-12-15 00:12:00] SALDIRI: Kule-0 -> D-1-2 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 41,7]
+[2025-12-15 00:12:00] SALDIRI: Kule-1 -> D-1-2 vurdu. [Zırh: 50] -> [Net Hasar: 13,3] [Kalan Can: 28,3]
+[2025-12-15 00:12:00] ALAN HASARI: Kule-1 -> D-1-4 (Ekstra 20,0 hasar)
+[2025-12-15 00:12:01] SALDIRI: Kule-0 -> D-1-2 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 21,7]
+[2025-12-15 00:12:01] SALDIRI: Kule-2 -> D-1-3 vurdu. [Zırh: 0] -> [Net Hasar: 15,0] [Kalan Can: 15,0]
+[2025-12-15 00:12:02] SALDIRI: Kule-0 -> D-1-2 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 15,0]
+[2025-12-15 00:12:03] SALDIRI: Kule-1 -> D-1-2 vurdu. [Zırh: 50] -> [Net Hasar: 13,3] [Kalan Can: 1,7]
+[2025-12-15 00:12:06] SALDIRI: Kule-2 -> D-1-4 vurdu. [Zırh: 0] -> [Net Hasar: 15,0] [Kalan Can: 15,0]
+[2025-12-15 00:12:06] SALDIRI: Kule-1 -> D-1-4 vurdu. [Zırh: 0] -> [Net Hasar: 20,0] [Kalan Can: 0,0]
+[2025-12-15 00:12:06] ZAFER: Viking öldürüldü. +10 Gold. Toplam: 35
+[2025-12-15 00:12:08] HASAR: D-1-3 üsse girdi! -5 Can. Kalan Can: 45
+[2025-12-15 00:12:09] SALDIRI: Kule-1 -> D-1-2 vurdu. [Zırh: 50] -> [Net Hasar: 13,3] [Kalan Can: 0,0]
+[2025-12-15 00:12:09] ZAFER: King öldürüldü. +20 Gold. Toplam: 55
+[2025-12-15 00:12:09] Dalga 1 Bitti. Dalga 2 Geliyor...
+[2025-12-15 00:12:09] SPAWN: Viking sahaya girdi.
+[2025-12-15 00:12:10] SALDIRI: Kule-0 -> D-2-0 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 40,0]
+[2025-12-15 00:12:10] İNSAAT: Okcu kuruldu. Konum: (560,545). Kalan Para: 5
+[2025-12-15 00:12:11] SPAWN: King sahaya girdi.
+[2025-12-15 00:12:11] SALDIRI: Kule-0 -> D-2-0 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 30,0]
+[2025-12-15 00:12:12] SALDIRI: Kule-1 -> D-2-0 vurdu. [Zırh: 0] -> [Net Hasar: 20,0] [Kalan Can: 10,0]
+[2025-12-15 00:12:12] SPAWN: Dragon sahaya girdi.
+[2025-12-15 00:12:12] SALDIRI: Kule-0 -> D-2-1 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 68,3]
+[2025-12-15 00:12:13] SALDIRI: Kule-0 -> D-2-0 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 0,0]
+[2025-12-15 00:12:13] ZAFER: Viking öldürüldü. +10 Gold. Toplam: 15
+[2025-12-15 00:12:14] SPAWN: Viking sahaya girdi.
+[2025-12-15 00:12:14] SALDIRI: Kule-0 -> D-2-1 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 61,7]
+[2025-12-15 00:12:15] SPAWN: King sahaya girdi.
+[2025-12-15 00:12:15] SALDIRI: Kule-1 -> D-2-1 vurdu. [Zırh: 50] -> [Net Hasar: 13,3] [Kalan Can: 48,3]
+[2025-12-15 00:12:15] ALAN HASARI: Kule-1 -> D-2-3 (Ekstra 20,0 hasar)
+[2025-12-15 00:12:16] SALDIRI: Kule-0 -> D-2-2 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 40,0]
+[2025-12-15 00:12:17] SALDIRI: Kule-0 -> D-2-3 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 20,0]
+[2025-12-15 00:12:17] SPAWN: Dragon sahaya girdi.
+[2025-12-15 00:12:17] SALDIRI: Kule-0 -> D-2-1 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 41,7]
+[2025-12-15 00:12:18] SALDIRI: Kule-1 -> D-2-1 vurdu. [Zırh: 50] -> [Net Hasar: 13,3] [Kalan Can: 28,3]
+[2025-12-15 00:12:18] ALAN HASARI: Kule-1 -> D-2-3 (Ekstra 20,0 hasar)
+[2025-12-15 00:12:18] ZAFER: Viking öldürüldü. +10 Gold. Toplam: 25
+[2025-12-15 00:12:18] SPAWN: Viking sahaya girdi.
+[2025-12-15 00:12:18] SALDIRI: Kule-3 -> D-2-2 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 30,0]
+[2025-12-15 00:12:18] SALDIRI: Kule-0 -> D-2-1 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 21,7]
+[2025-12-15 00:12:19] SALDIRI: Kule-2 -> D-2-2 vurdu. [Zırh: 0] -> [Net Hasar: 15,0] [Kalan Can: 15,0]
+[2025-12-15 00:12:19] SALDIRI: Kule-3 -> D-2-2 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 5,0]
+[2025-12-15 00:12:19] SALDIRI: Kule-0 -> D-2-1 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 15,0]
+[2025-12-15 00:12:20] SPAWN: King sahaya girdi.
+[2025-12-15 00:12:21] SALDIRI: Kule-3 -> D-2-2 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 0,0]
+[2025-12-15 00:12:21] ZAFER: Dragon öldürüldü. +15 Gold. Toplam: 40
+[2025-12-15 00:12:21] SALDIRI: Kule-0 -> D-2-1 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 8,3]
+[2025-12-15 00:12:21] SALDIRI: Kule-1 -> D-2-1 vurdu. [Zırh: 50] -> [Net Hasar: 13,3] [Kalan Can: 0,0]
+[2025-12-15 00:12:21] ZAFER: King öldürüldü. +20 Gold. Toplam: 60
+[2025-12-15 00:12:21] SPAWN: Dragon sahaya girdi.
+[2025-12-15 00:12:22] SALDIRI: Kule-0 -> D-2-4 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 68,3]
+[2025-12-15 00:12:23] SALDIRI: Kule-0 -> D-2-4 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 61,7]
+[2025-12-15 00:12:23] SPAWN: Viking sahaya girdi.
+[2025-12-15 00:12:23] SALDIRI: Kule-3 -> D-2-5 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 40,0]
+[2025-12-15 00:12:23] SALDIRI: Kule-2 -> D-2-5 vurdu. [Zırh: 0] -> [Net Hasar: 15,0] [Kalan Can: 25,0]
+[2025-12-15 00:12:24] SALDIRI: Kule-0 -> D-2-6 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 40,0]
+[2025-12-15 00:12:24] SALDIRI: Kule-3 -> D-2-5 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 15,0]
+[2025-12-15 00:12:24] SALDIRI: Kule-1 -> D-2-6 vurdu. [Zırh: 0] -> [Net Hasar: 20,0] [Kalan Can: 20,0]
+[2025-12-15 00:12:25] SALDIRI: Kule-0 -> D-2-4 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 55,0]
+[2025-12-15 00:12:25] SALDIRI: Kule-3 -> D-2-5 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 5,0]
+[2025-12-15 00:12:25] SALDIRI: Kule-2 -> D-2-5 vurdu. [Zırh: 0] -> [Net Hasar: 15,0] [Kalan Can: 0,0]
+[2025-12-15 00:12:25] ZAFER: Dragon öldürüldü. +15 Gold. Toplam: 75
+[2025-12-15 00:12:26] SALDIRI: Kule-0 -> D-2-4 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 48,3]
+[2025-12-15 00:12:27] SALDIRI: Kule-0 -> D-2-7 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 68,3]
+[2025-12-15 00:12:27] SALDIRI: Kule-1 -> D-2-6 vurdu. [Zırh: 0] -> [Net Hasar: 20,0] [Kalan Can: 0,0]
+[2025-12-15 00:12:27] ZAFER: Viking öldürüldü. +10 Gold. Toplam: 85
+[2025-12-15 00:12:28] SALDIRI: Kule-0 -> D-2-7 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 61,7]
+[2025-12-15 00:12:28] SALDIRI: Kule-2 -> D-2-8 vurdu. [Zırh: 0] -> [Net Hasar: 15,0] [Kalan Can: 35,0]
+[2025-12-15 00:12:28] SALDIRI: Kule-3 -> D-2-8 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 25,0]
+[2025-12-15 00:12:29] SALDIRI: Kule-0 -> D-2-7 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 55,0]
+[2025-12-15 00:12:30] SALDIRI: Kule-3 -> D-2-8 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 15,0]
+[2025-12-15 00:12:30] SALDIRI: Kule-0 -> D-2-7 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 48,3]
+[2025-12-15 00:12:30] SALDIRI: Kule-2 -> D-2-8 vurdu. [Zırh: 0] -> [Net Hasar: 15,0] [Kalan Can: 0,0]
+[2025-12-15 00:12:30] ZAFER: Dragon öldürüldü. +15 Gold. Toplam: 100
+[2025-12-15 00:12:30] SALDIRI: Kule-1 -> D-2-4 vurdu. [Zırh: 50] -> [Net Hasar: 13,3] [Kalan Can: 35,0]
+[2025-12-15 00:12:30] ALAN HASARI: Kule-1 -> D-2-9 (Ekstra 20,0 hasar)
+[2025-12-15 00:12:32] SALDIRI: Kule-3 -> D-2-9 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 20,0]
+[2025-12-15 00:12:33] SALDIRI: Kule-2 -> D-2-9 vurdu. [Zırh: 0] -> [Net Hasar: 15,0] [Kalan Can: 5,0]
+[2025-12-15 00:12:33] SALDIRI: Kule-3 -> D-2-9 vurdu. [Zırh: 0] -> [Net Hasar: 10,0] [Kalan Can: 0,0]
+[2025-12-15 00:12:33] ZAFER: Viking öldürüldü. +10 Gold. Toplam: 110
+[2025-12-15 00:12:34] İNSAAT: Topcu kuruldu. Konum: (570,815). Kalan Para: 35
+[2025-12-15 00:12:34] SALDIRI: Kule-3 -> D-2-4 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 28,3]
+[2025-12-15 00:12:35] SALDIRI: Kule-2 -> D-2-4 vurdu. [Zırh: 50] -> [Net Hasar: 10,0] [Kalan Can: 18,3]
+[2025-12-15 00:12:35] SALDIRI: Kule-3 -> D-2-4 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 11,7]
+[2025-12-15 00:12:36] SALDIRI: Kule-3 -> D-2-4 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 5,0]
+[2025-12-15 00:12:36] SALDIRI: Kule-1 -> D-2-7 vurdu. [Zırh: 50] -> [Net Hasar: 13,3] [Kalan Can: 35,0]
+[2025-12-15 00:12:37] SALDIRI: Kule-2 -> D-2-4 vurdu. [Zırh: 50] -> [Net Hasar: 10,0] [Kalan Can: 0,0]
+[2025-12-15 00:12:37] ZAFER: King öldürüldü. +20 Gold. Toplam: 55
+[2025-12-15 00:12:38] SALDIRI: Kule-3 -> D-2-7 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 28,3]
+[2025-12-15 00:12:39] SALDIRI: Kule-3 -> D-2-7 vurdu. [Zırh: 50] -> [Net Hasar: 6,7] [Kalan Can: 21,7]
+[2025-12-15 00:12:39] SALDIRI: Kule-2 -> D-2-7 vurdu. [Zırh: 50] -> [Net Hasar: 10,0] [Kalan Can: 11,7]
+[2025-12-15 00:12:39] SALDIRI: Kule-1 -> D-2-7 vurdu. [Zırh: 50] -> [Net Hasar: 13,3] [Kalan Can: 0,0]
+[2025-12-15 00:12:39] ZAFER: King öldürüldü. +20 Gold. Toplam: 75
+[2025-12-15 00:12:39] OYUN SONU: TEBRİKLER! KAZANDINIZ. Kalan Can: 45
